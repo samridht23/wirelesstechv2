@@ -13,7 +13,7 @@ const PopularProduct = () => {
       <div className="grid grid-cols-2 md:grid-cols-4 justify-center gap-2">
         {data.map((data, key) => (
           <Link key={key} href={`/products/${data.product_value}`}>
-            <ProductCard image={data.image} name={data.name} thumbnail_image={data.thumb_img} category={data.category} />
+            <ProductCard name={data.name} thumbnail_image={data.thumb_img} category={data.category} />
           </Link>
         ))}
       </div>

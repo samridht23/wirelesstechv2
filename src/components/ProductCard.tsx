@@ -3,7 +3,6 @@ import Image from "next/image"
 interface ProductCardProps {
   name: string
   thumbnail_image: string
-  image: string
   category: string[]
 }
 

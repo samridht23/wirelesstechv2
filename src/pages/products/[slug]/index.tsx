@@ -24,7 +24,6 @@ interface Product {
   name: string;
   category: string[];
   brand: string;
-  image: string;
   thumb_img: string;
   desc?: ProductDesc;
   product_name: string;
@@ -131,9 +130,9 @@ const ProductPage = () => {
           <div className="flex flex-col md:flex-row gap-12">
             <div className="w-full flex items-center justify-center">
               <div className="max-w-xl overflow-hidden rounded-md border border-[#d1d5db] w-full h-full">
-                {product.image ? (
+                {product.thumb_img? (
                   <Image
-                    src={product.image}
+                    src={product.thumb_img}
                     width={0}
                     height={0}
                     sizes="100vw"
