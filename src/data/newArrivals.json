@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-13.jpg",
+    "thumb_img": "/img/products_images/iPhone-13.jpg",
+    "desc": {
+      "display": "6.1 inches (1170 x 2532 pixels)",
+      "processor": "Apple A15 Bionic (5 nm)",
+      "os": "iOS 15, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "128 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 3240 mAh"
+    },
+    "product_name": "iPhone 13",
+    "product_value": "iphone-13"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 13 Mini",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-13-mini.jpg",
+    "thumb_img": "/img/products_images/iPhone-13-mini.jpg",
+    "desc": {
+      "display": "5.4 inches (1080 x 2340 pixels)",
+      "processor": "Apple A15 Bionic (5 nm)",
+      "os": "iOS 15, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "128 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 2438 mAh"
+    },
+    "product_name": "iPhone 13 Mini",
+    "product_value": "iphone-13-mini"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 13 Pro",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-13-pro.jpg",
+    "thumb_img": "/img/products_images/iPhone-13-pro.jpg",
+    "desc": {
+      "display": "6.1 inches (1170 x 2532 pixels)",
+      "processor": "Apple A15 Bionic (5 nm)",
+      "os": "iOS 15, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP + 12 MP",
+      "ram": "6 GB",
+      "storage": "128 GB / 256 GB / 512 GB / 1 TB",
+      "battery": "Li-Ion 3095 mAh"
+    },
+    "product_name": "iPhone 13 Pro",
+    "product_value": "iphone-13-pro"
+  },
+  {
+    "id": 4,
+    "name": "iPhone 13 Pro Max",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-13-pro-max.jpg",
+    "thumb_img": "/img/products_images/iPhone-13-pro-max.jpg",
+    "desc": {
+      "display": "6.7 inches (1284 x 2778 pixels)",
+      "processor": "Apple A15 Bionic (5 nm)",
+      "os": "iOS 15, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP + 12 MP",
+      "ram": "6 GB",
+      "storage": "128 GB / 256 GB / 512 GB / 1 TB",
+      "battery": "Li-Ion 4352 mAh"
+    },
+    "product_name": "iPhone 13 Pro Max",
+    "product_value": "iphone-13-pro-max"
+  }
+]

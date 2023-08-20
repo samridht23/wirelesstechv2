@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone X",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-X.webp",
+    "thumb_img": "/img/products_thumbnails/iPhone-X-265x265.webp",
+    "desc": {
+      "display": "5.8 inches (1125 x 2436 pixels)",
+      "processor": "Apple A11 Bionic(10 nm)",
+      "os": "iOS 11.1.1, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "3 GB",
+      "storage": "64 GB / 256 GB",
+      "battery": "Li-Ion 2716 mAh"
+    },
+    "product_name": "iPhone X",
+    "product_value": "iphone-x"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 8",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-8.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-8-265x265.jpg",
+    "desc": {
+      "display": "4.7 inches (750 x 1334 pixels)",
+      "processor": "Apple A11 Bionic(10 nm)",
+      "os": "iOS 11, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP",
+      "ram": "2 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Ion 1821 mAh"
+    },
+    "product_name": "iPhone 8",
+    "product_value": "iphone-8"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy A12",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-A12.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-A12-265x265.jpg",
+    "desc": {
+      "display": "6.5 inches (720 x 1600 pixels)",
+      "processor": "Mediatek MT6765 Helio P35 (12nm)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.1",
+      "selfie_camera": "8 MP",
+      "main_camera": "48 MP + 5 MP + 2 MP + 2 MP",
+      "ram": "2 GB / 3 GB / 4 GB",
+      "storage": "32 GB / 64 GB / 128 GB",
+      "battery": "Li-Po 5000 mAh"
+    },
+    "product_name": "Samsung Galaxy A12",
+    "product_value": "samsung-galaxy-a12"
+  },
+  {
+    "id": 4,
+    "name": "iPad 8th Gen",
+    "category": [
+      "ipad",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPad-8th-Gen.jpg",
+    "thumb_img": "/img/products_thumbnails/iPad-8th-Gen-265x265.jpg",
+    "desc": {
+      "display": "10.2 inches (1620 x 2160 pixels)",
+      "processor": "Apple A12 Bionic (7 nm)",
+      "os": "iPadOS 14, upgradable to iPadOS 15.1",
+      "selfie_camera": "1.2 MP",
+      "main_camera": "8 MP",
+      "ram": "3 GB",
+      "storage": "32 GB / 128 GB",
+      "battery": "Li-Ion, non-removable (32.4 Wh)"
+    },
+    "product_name": "iPad 8th Gen",
+    "product_value": "ipad-8th-gen"
+  }
+]

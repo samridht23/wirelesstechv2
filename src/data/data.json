@@ -1,0 +1,1431 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods 2nd Gen",
+    "category": [
+      "accessories",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/AirPods-2nd-Gen.webp",
+    "thumb_img": "/img/products_thumbnails/AirPods-2nd-Gen-265x265 .webp",
+    "product_name": "AirPods 2nd Gen",
+    "product_value": "airpods-2nd-gen"
+  },
+  {
+    "id": 2,
+    "name": "AirPods 3rd Gen",
+    "category": [
+      "accessories",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/AirPods-3rd-Gen.jpg",
+    "thumb_img": "/img/products_thumbnails/AirPods-3rd-Gen-265x265.jpg",
+    "product_name": "AirPods 3rd Gen",
+    "product_value": "airpods-3rd-gen"
+  },
+  {
+    "id": 3,
+    "name": "AirPods Pro",
+    "category": [
+      "accessories",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/AirPods-Pro.jpg",
+    "thumb_img": "/img/products_thumbnails/AirPods-Pro-265x265.jpg",
+    "product_name": "AirPods Pro",
+    "product_value": "airpods-pro"
+  },
+  {
+    "id": 4,
+    "name": "Beats Studio 3 Wireless",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Beats",
+    "image": "/img/products_images/Beats-Studio-3-wireless.jpg",
+    "thumb_img": "/img/products_thumbnails/Beats-Studio-3-wireless-265x265.jpg",
+    "product_name": "Beats Studio 3 Wireless",
+    "product_value": "beats-studio-3-wireless"
+  },
+  {
+    "id": 5,
+    "name": "Beats X Headphones",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Beats",
+    "image": "/img/products_images/Beats-X-headphones.jpg",
+    "thumb_img": "/img/products_thumbnails/Beats-X-headphones-265x265.jpg",
+    "product_name": "Beats X Headphones",
+    "product_value": "beats-x-headphones"
+  },
+  {
+    "id": 6,
+    "name": "Boom 3 Headset",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Motorola",
+    "image": "/img/products_images/Boom-3-headset.jpg",
+    "thumb_img": "/img/products_thumbnails/Boom-3-headset-265x265.jpg",
+    "product_name": "Boom 3 Headset",
+    "product_value": "boom-3-headset"
+  },
+  {
+    "id": 7,
+    "name": "Car Mount",
+    "category": [
+      "accessories"
+    ],
+    "brand": "",
+    "image": "/img/products_images/Car-Mount.jpg",
+    "thumb_img": "/img/products_thumbnails/Car-Mount-265x265.jpg",
+    "product_name": "Car Mount",
+    "product_value": "car-mount"
+  },
+  {
+    "id": 8,
+    "name": "Club 700 BT",
+    "category": [
+      "accessories"
+    ],
+    "brand": "JBL",
+    "image": "/img/products_images/Club-700-BT.webp",
+    "thumb_img": "/img/products_thumbnails/Club-700-BT-265x265.webp",
+    "product_name": "Club 700 BT",
+    "product_value": "club-700-bt"
+  },
+  {
+    "id": 9,
+    "name": "HK375",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Motorola",
+    "image": "/img/products_images/HK375.jpg",
+    "thumb_img": "/img/products_thumbnails/HK375-265x265.jpg",
+    "product_name": "HK375",
+    "product_value": "hk375"
+  },
+  {
+    "id": 10,
+    "name": "JBL Charge 4",
+    "category": [
+      "accessories"
+    ],
+    "brand": "JBL",
+    "image": "/img/products_images/JBL-Charge-4.jpeg",
+    "thumb_img": "/img/products_thumbnails/JBL-Charge-4-265x265.jpeg",
+    "product_name": "JBL Charge 4",
+    "product_value": "jbl-charge-4"
+  },
+  {
+    "id": 11,
+    "name": "JBL Clip 3",
+    "category": [
+      "accessories"
+    ],
+    "brand": "JBL",
+    "image": "/img/products_images/JBL-clip-3.webp",
+    "thumb_img": "/img/products_thumbnails/JBL-clip-3-265x265.webp",
+    "product_name": "JBL Clip 3",
+    "product_value": "jbl-clip-3"
+  },
+  {
+    "id": 12,
+    "name": "JBL Goto 2",
+    "category": [
+      "accessories"
+    ],
+    "brand": "JBL",
+    "image": "/img/products_images/JBL-Goto-2.webp",
+    "thumb_img": "/img/products_thumbnails/JBL-Goto-2-265x265.webp",
+    "product_name": "JBL Goto 2",
+    "product_value": "jbl-goto-2"
+  },
+  {
+    "id": 13,
+    "name": "JBL Tune 125",
+    "category": [
+      "accessories"
+    ],
+    "brand": "JBL",
+    "image": "/img/products_images/JBL-tune-125.webp",
+    "thumb_img": "/img/products_thumbnails/JBL-tune-125-265x265.webp",
+    "product_name": "JBL Tune 125",
+    "product_value": "jbl-tune-125"
+  },
+  {
+    "id": 14,
+    "name": "JBL Tune 510BT",
+    "category": [
+      "accessories"
+    ],
+    "brand": "JBL",
+    "image": "/img/products_images/JBL-TUNE-510BT.webp",
+    "thumb_img": "/img/products_thumbnails/JBL-TUNE-510BT-265x265.webp",
+    "product_name": "JBL Tune 510BT",
+    "product_value": "jbl-tune-510bt"
+  },
+  {
+    "id": 15,
+    "name": "JBL Under Armour True Wireless Flash",
+    "category": [
+      "accessories"
+    ],
+    "brand": "JBL",
+    "image": "/img/products_images/JBL-under-armour-true-wireless-flash.webp",
+    "thumb_img": "/img/products_thumbnails/JBL-under-armour-true-wireless-flash-265x265.webp",
+    "product_name": "JBL Under Armour True Wireless Flash",
+    "product_value": "jbl-under-armour-true-wireless-flash"
+  },
+  {
+    "id": 16,
+    "name": "JBL Xtreme 2",
+    "category": [
+      "accessories"
+    ],
+    "brand": "JBL",
+    "image": "/img/products_images/JBL-Xtreme-2.jpg",
+    "thumb_img": "/img/products_thumbnails/JBL-Xtreme-2-265x265.jpg",
+    "product_name": "JBL Xtreme 2",
+    "product_value": "jbl-xtreme-2"
+  },
+  {
+    "id": 17,
+    "name": "Memory Card",
+    "category": [
+      "accessories"
+    ],
+    "brand": "",
+    "image": "/img/products_images/Memory-card.jpeg",
+    "thumb_img": "/img/products_thumbnails/Memory-card-265x265.jpeg",
+    "product_name": "Memory Card",
+    "product_value": "memory-card"
+  },
+  {
+    "id": 18,
+    "name": "Moto Buds Charge",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Motorola",
+    "image": "/img/products_images/Moto-Buds-Charge.jpg",
+    "thumb_img": "/img/products_thumbnails/Moto-Buds-Charge-265x265.jpg",
+    "product_name": "Moto Buds Charge",
+    "product_value": "moto-buds-charge"
+  },
+  {
+    "id": 19,
+    "name": "Pendrives",
+    "category": [
+      "accessories"
+    ],
+    "brand": "",
+    "image": "/img/products_images/Pendrives.jpg",
+    "thumb_img": "/img/products_thumbnails/Pendrives-265x265.jpg",
+    "product_name": "Pendrives",
+    "product_value": "pendrives"
+  },
+  {
+    "id": 20,
+    "name": "Powerbeats Pro Headset",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Beats",
+    "image": "/img/products_images/Powerbeats-pro-headset.jpg",
+    "thumb_img": "/img/products_thumbnails/Powerbeats-pro-headset-265x265.jpg",
+    "product_name": "Powerbeats Pro Headset",
+    "product_value": "powerbeats-pro-headset"
+  },
+  {
+    "id": 21,
+    "name": "Samsung Galaxy Buds",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-Buds.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-Buds-265x265.jpg",
+    "product_name": "Samsung Galaxy Buds",
+    "product_value": "samsung-galaxy-buds"
+  },
+  {
+    "id": 22,
+    "name": "Samsung Galaxy Buds Live",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-Buds-live.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-Buds-live-265x265.jpg",
+    "product_name": "Samsung Galaxy Buds Live",
+    "product_value": "samsung-galaxy-buds-live"
+  },
+  {
+    "id": 23,
+    "name": "Samsung Galaxy Buds Pro",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-Buds-Pro.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-Buds-Pro-265x265.jpg",
+    "product_name": "Samsung Galaxy Buds Pro",
+    "product_value": "samsung-galaxy-buds-pro"
+  },
+  {
+    "id": 24,
+    "name": "Verve Buds 110",
+    "category": [
+      "accessories"
+    ],
+    "brand": "Motorola",
+    "image": "/img/products_images/Verve-Buds-110.jpg",
+    "thumb_img": "/img/products_thumbnails/Verve-Buds-110-265x265.jpg",
+    "product_name": "Verve Buds 110",
+    "product_value": "verve-buds-110"
+  },
+  {
+    "id": 25,
+    "name": "Amazon Fire 7",
+    "category": [
+      "amazon"
+    ],
+    "brand": "Amazon",
+    "image": "/img/products_images/Amazon-Fire-7.jpg",
+    "thumb_img": "/img/products_thumbnails/Amazon-Fire-7-265x265.jpg",
+    "desc": {
+      "display": "7.0 inches (600 x 1024 pixels)",
+      "processor": "Mediatek MT8127 (28 nm)",
+      "os": "Customized Android 5.1 (Lollipop), Fire 5.4",
+      "sel25ie_camera": "VGA",
+      "main_camera": "2 MP",
+      "ram": "1 GB",
+      "storage": "8 GB / 16 GB",
+      "battery": "Li-Ion 2980 mAh, non-removable"
+    },
+    "product_name": "Amazon Fire 7",
+    "product_value": "amazon-fire-7"
+  },
+  {
+    "id": 26,
+    "name": "Amazon Fire HD 10",
+    "category": [
+      "amazon"
+    ],
+    "brand": "Amazon",
+    "image": "/img/products_images/Amazon-Fire-HD-10.jpg",
+    "thumb_img": "/img/products_thumbnails/Amazon-Fire-HD-10-265x265.jpg",
+    "desc": {
+      "display": "10.1 inches (1920 x 1200 pixels)",
+      "processor": "Mediatek MT8183 Helio P60T (12 nm)",
+      "os": "Android 9.0 (Pie), Fire OS 7",
+      "selfie_camera": "2 MP",
+      "main_camera": "5 MP",
+      "ram": "3 GB",
+      "storage": "32 GB / 64 GB",
+      "battery": "Li-Ion, non-removable"
+    },
+    "product_name": "Amazon Fire HD 10",
+    "product_value": "amazon-fire-hd-10"
+  },
+  {
+    "id": 27,
+    "name": "Amazon Fire HD 8",
+    "category": [
+      "amazon"
+    ],
+    "brand": "Amazon",
+    "image": "/img/products_images/Amazon-Fire-HD-8.jpg",
+    "thumb_img": "/img/products_thumbnails/Amazon-Fire-HD-8-265x265.jpg",
+    "desc": {
+      "display": "8.0 inches (800 x 1280 pixels)",
+      "processor": "Mediatek MT8168 (12 nm)",
+      "os": "Android 9.0 (Pie), Fire OS 7",
+      "selfie_camera": "2 MP",
+      "main_camera": "2 MP",
+      "ram": "2 GB",
+      "storage": "32 GB / 64 GB"
+    },
+    "product_name": "Amazon Fire HD 8",
+    "product_value": "amazon-fire-hd-8"
+  },
+  {
+    "id": 28,
+    "name": "Amazon Fire HD 8 Plus",
+    "category": [
+      "amazon"
+    ],
+    "brand": "Amazon",
+    "image": "/img/products_images/Amazon-Fire-HD-8-Plus.jpg",
+    "thumb_img": "/img/products_thumbnails/Amazon-Fire-HD-8-Plus-265x265.jpg",
+    "desc": {
+      "display": "8.0 inches (800 x 1280 pixels)",
+      "processor": "Mediatek MT8168 (12 nm)",
+      "os": "Android 9.0 (Pie), Fire OS 7",
+      "selfie_camera": "2 MP",
+      "main_camera": "2 MP",
+      "ram": "3 GB",
+      "storage": "32 GB / 64 GB"
+    },
+    "product_name": "Amazon Fire HD 8 Plus",
+    "product_value": "amazon-fire-hd-8-plus"
+  },
+  {
+    "id": 29,
+    "name": "Apple Watch 3",
+    "category": [
+      "apple_watch",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/Apple-watch-3.jpg",
+    "thumb_img": "/img/products_thumbnails/Apple-watch-3-265x265.jpg",
+    "desc": {
+      "display": "1.65 inches (390 x 312 pixels)",
+      "processor": "Apple S3",
+      "os": "watchOS 4.0, upgradable to 8.3",
+      "ram": "768 MB",
+      "storage": "16 GB",
+      "battery": "Li-Ion 314 mAh"
+    },
+    "product_name": "Apple Watch 3",
+    "product_value": "apple-watch-3"
+  },
+  {
+    "id": 30,
+    "name": "Apple Watch 6",
+    "category": [
+      "apple_watch",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/Apple-watch-6.jpg",
+    "thumb_img": "/img/products_thumbnails/Apple-watch-6-265x265.jpg",
+    "desc": {
+      "display": "1.78 inches (448 x 368 pixels)",
+      "processor": "Apple S6",
+      "os": "watchOS 7.0, upgradable to 8.3",
+      "ram": "1 GB",
+      "storage": "32 GB",
+      "battery": "Li-Ion 303.8 mAh"
+    },
+    "product_name": "Apple Watch 6",
+    "product_value": "apple-watch-6"
+  },
+  {
+    "id": 31,
+    "name": "Apple Watch 7",
+    "category": [
+      "apple_watch",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/Apple-watch-7.jpg",
+    "thumb_img": "/img/products_thumbnails/Apple-watch-7-265x265.jpg",
+    "desc": {
+      "display": "1.9 inches (484 x 396 pixels)",
+      "processor": "Apple S7",
+      "os": "watchOS 8.0, upgradable to 8.3",
+      "ram": "1 GB",
+      "storage": "32 GB",
+      "battery": "Li-Ion 309 mAh"
+    },
+    "product_name": "Apple Watch 7",
+    "product_value": "apple-watch-7"
+  },
+  {
+    "id": 32,
+    "name": "Apple Watch SE",
+    "category": [
+      "apple_watch",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/Apple-watch-SE.jpg",
+    "thumb_img": "/img/products_thumbnails/Apple-watch-SE-265x265.jpg",
+    "desc": {
+      "display": "1.78 inches (448 x 368 pixels)",
+      "processor": "Apple S5",
+      "os": "watchOS 8.0, upgradable to 8.3",
+      "ram": "1 GB",
+      "storage": "32 GB",
+      "battery": "Li-Ion, non-removable"
+    },
+    "product_name": "Apple Watch SE",
+    "product_value": "apple-watch-se"
+  },
+  {
+    "id": 33,
+    "name": "iPad 8th Gen",
+    "category": [
+      "ipad",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPad-8th-Gen.jpg",
+    "thumb_img": "/img/products_thumbnails/iPad-8th-Gen-265x265.jpg",
+    "desc": {
+      "display": "10.2 inches (1620 x 2160 pixels)",
+      "processor": "Apple A12 Bionic (7 nm)",
+      "os": "iPadOS 14, upgradable to iPadOS 15.1",
+      "selfie_camera": "1.2 MP",
+      "main_camera": "8 MP",
+      "ram": "3 GB",
+      "storage": "32 GB / 128 GB",
+      "battery": "Li-Ion, non-removable (32.4 Wh)"
+    },
+    "product_name": "iPad 8th Gen",
+    "product_value": "ipad-8th-gen"
+  },
+  {
+    "id": 34,
+    "name": "iPad mini 5th Gen",
+    "category": [
+      "ipad",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPad-mini-5th-Gen.jpg",
+    "thumb_img": "/img/products_thumbnails/iPad-mini-5th-Gen-265x265.jpg",
+    "desc": {
+      "display": "7.9 inches (1536 x 2048 pixels)",
+      "processor": "Apple A12 Bionic (7 nm)",
+      "os": "iPadOS 12.1.3, upgradable to iPadOS 15.1",
+      "selfie_camera": "7 MP",
+      "main_camera": "8 MP",
+      "ram": "3 GB",
+      "storage": "64 GB / 256 GB",
+      "battery": "Li-Ion 5124 mAh"
+    },
+    "product_name": "iPad mini 5th Gen",
+    "product_value": "ipad-mini-5th-gen"
+  },
+  {
+    "id": 35,
+    "name": "iPhone 11",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-11.png",
+    "thumb_img": "/img/products_thumbnails/iPhone-11-265x265.png",
+    "desc": {
+      "display": "6.1 inches (828 x 1792 pixels)",
+      "processor": "Apple A13 Bionic (7 nm+)",
+      "os": "iOS 13, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "64 GB / 256 GB",
+      "battery": "Li-Ion 3110 mAh"
+    },
+    "product_name": "iPhone 11",
+    "product_value": "iphone-11"
+  },
+  {
+    "id": 36,
+    "name": "iPhone 11 Pro",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-11-pro.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-11-pro-265x265.jpg",
+    "desc": {
+      "display": "5.8 inches (1125 x 2436 pixels)",
+      "processor": "Apple A13 Bionic (7 nm+)",
+      "os": "iOS 13, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "64 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 3146 mAh"
+    },
+    "product_name": "iPhone 11 Pro",
+    "product_value": "iphone-11-pro"
+  },
+  {
+    "id": 37,
+    "name": "iPhone 11 Pro Max",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-11-pro-max.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-11-pro-max-265x265.jpg",
+    "desc": {
+      "display": "6.5 inches (1242 x 2688 pixels)",
+      "processor": "Apple A13 Bionic (7 nm+)",
+      "os": "iOS 13, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "64 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 3969 mAh"
+    },
+    "product_name": "iPhone 11 Pro Max",
+    "product_value": "iphone-11-pro-max"
+  },
+  {
+    "id": 38,
+    "name": "iPhone 12",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-12.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-12-265x265.jpg",
+    "desc": {
+      "display": "6.1 inches (1170 x 2532 pixels)",
+      "processor": "Apple A14 Bionic (5 nm)",
+      "os": "iOS 14.1, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Ion 2815 mAh"
+    },
+    "product_name": "iPhone 12",
+    "product_value": "iphone-12"
+  },
+  {
+    "id": 39,
+    "name": "iPhone 12 mini",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-12-mini.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-12-mini-265x265.jpg",
+    "desc": {
+      "display": "5.4 inches (1080 x 2340 pixels)",
+      "processor": "Apple A14 Bionic (5 nm)",
+      "os": "iOS 14.1, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Ion 2227 mAh"
+    },
+    "product_name": "iPhone 12 mini",
+    "product_value": "iphone-12-mini"
+  },
+  {
+    "id": 40,
+    "name": "iPhone 12 Pro",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-12-pro.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-12-pro-265x265.jpg",
+    "desc": {
+      "display": "6.1 inches (1170 x 2532 pixels)",
+      "processor": "Apple A14 Bionic (5 nm)",
+      "os": "iOS 14.1, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP + 12 MP",
+      "ram": "6 GB",
+      "storage": "128 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 2815 mAh"
+    },
+    "product_name": "iPhone 12 Pro",
+    "product_value": "iphone-12-pro"
+  },
+  {
+    "id": 41,
+    "name": "iPhone 12 Pro Max",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-12-pro-max.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-12-pro-max-265x265.jpg",
+    "desc": {
+      "display": "6.7 inches (1284 x 2778 pixels)",
+      "processor": "Apple A14 Bionic (5 nm)",
+      "os": "iOS 14.1, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP + 12 MP",
+      "ram": "6 GB",
+      "storage": "128 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 3687 mAh"
+    },
+    "product_name": "iPhone 12 Pro Max",
+    "product_value": "iphone-12-pro-max"
+  },
+  {
+    "id": 42,
+    "name": "iPhone 13",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-13.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-13-265x265.jpg",
+    "desc": {
+      "display": "6.1 inches (1170 x 2532 pixels)",
+      "processor": "Apple A15 Bionic (5 nm)",
+      "os": "iOS 15, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "128 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 3240 mAh"
+    },
+    "product_name": "iPhone 13",
+    "product_value": "iphone-13"
+  },
+  {
+    "id": 43,
+    "name": "iPhone 13 Mini",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-13-mini.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-13-mini-265x265.jpg",
+    "desc": {
+      "display": "5.4 inches (1080 x 2340 pixels)",
+      "processor": "Apple A15 Bionic (5 nm)",
+      "os": "iOS 15, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "128 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 2438 mAh"
+    },
+    "product_name": "iPhone 13 Mini",
+    "product_value": "iphone-13-mini"
+  },
+  {
+    "id": 44,
+    "name": "iPhone 13 Pro",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-13-pro.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-13-pro-265x265.jpg",
+    "desc": {
+      "display": "6.1 inches (1170 x 2532 pixels)",
+      "processor": "Apple A15 Bionic (5 nm)",
+      "os": "iOS 15, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP + 12 MP",
+      "ram": "6 GB",
+      "storage": "128 GB / 256 GB / 512 GB / 1 TB",
+      "battery": "Li-Ion 3095 mAh"
+    },
+    "product_name": "iPhone 13 Pro",
+    "product_value": "iphone-13-pro"
+  },
+  {
+    "id": 45,
+    "name": "iPhone 13 Pro Max",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-13-pro-max.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-13-pro-max-265x265.jpg",
+    "desc": {
+      "display": "6.7 inches (1284 x 2778 pixels)",
+      "processor": "Apple A15 Bionic (5 nm)",
+      "os": "iOS 15, upgradable to iOS 15.2",
+      "selfie_camera": "12 MP",
+      "main_camera": "12 MP + 12 MP + 12 MP",
+      "ram": "6 GB",
+      "storage": "128 GB / 256 GB / 512 GB / 1 TB",
+      "battery": "Li-Ion 4352 mAh"
+    },
+    "product_name": "iPhone 13 Pro Max",
+    "product_value": "iphone-13-pro-max"
+  },
+  {
+    "id": 46,
+    "name": "iPhone 7",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-7.png",
+    "thumb_img": "/img/products_thumbnails/iPhone-7-265x265.png",
+    "desc": {
+      "display": "4.1 inches (750 x 1334 pixels)",
+      "processor": "Apple A10 Fusion (16 nm)",
+      "os": "iOS 10.0.1, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP",
+      "ram": "2 GB",
+      "storage": "32 GB / 128 GB / 256 GB",
+      "battery": "Li-Ion 1960 mAh"
+    },
+    "product_name": "iPhone 7",
+    "product_value": "iphone-7"
+  },
+  {
+    "id": 47,
+    "name": "iPhone 7 Plus",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-7-Plus.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-7-Plus-265x265.jpg",
+    "desc": {
+      "display": "5.5 inches (1080 x 1920 pixels)",
+      "processor": "Apple A10 Fusion (16 nm)",
+      "os": "iOS 10.0.1, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "3 GB",
+      "storage": "32 GB / 128 GB / 256 GB",
+      "battery": "Li-Ion 2900 mAh"
+    },
+    "product_name": "iPhone 7 Plus",
+    "product_value": "iphone-7-plus"
+  },
+  {
+    "id": 48,
+    "name": "iPhone 8",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-8.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-8-265x265.jpg",
+    "desc": {
+      "display": "4.7 inches (750 x 1334 pixels)",
+      "processor": "Apple A11 Bionic(10 nm)",
+      "os": "iOS 11, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP",
+      "ram": "2 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Ion 1821 mAh"
+    },
+    "product_name": "iPhone 8",
+    "product_value": "iphone-8"
+  },
+  {
+    "id": 49,
+    "name": "iPhone 8 Plus",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-8-plus.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-8-plus-265x265.jpg",
+    "desc": {
+      "display": "5.5 inches (1080 x 1920 pixels)",
+      "processor": "Apple A11 Bionic(10 nm)",
+      "os": "iOS 11, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "3 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Ion 2691 mAh"
+    },
+    "product_name": "iPhone 8 Plus",
+    "product_value": "iphone-8-plus"
+  },
+  {
+    "id": 50,
+    "name": "iPhone SE 2020",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-SE-2020.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-SE-2020-265x265.jpg",
+    "desc": {
+      "display": "4.7 inches (750 x 1334 pixels)",
+      "processor": "Apple A13 Bionic(7 nm+)",
+      "os": "iOS 13, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP",
+      "ram": "3 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Ion 1821 mAh"
+    },
+    "product_name": "iPhone SE 2020",
+    "product_value": "iphone-se-2020"
+  },
+  {
+    "id": 51,
+    "name": "iPhone X",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-X.webp",
+    "thumb_img": "/img/products_thumbnails/iPhone-X-265x265.webp",
+    "desc": {
+      "display": "5.8 inches (1125 x 2436 pixels)",
+      "processor": "Apple A11 Bionic(10 nm)",
+      "os": "iOS 11.1.1, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "3 GB",
+      "storage": "64 GB / 256 GB",
+      "battery": "Li-Ion 2716 mAh"
+    },
+    "product_name": "iPhone X",
+    "product_value": "iphone-x"
+  },
+  {
+    "id": 52,
+    "name": "iPhone XR",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-XR.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-XR-265x265.jpg",
+    "desc": {
+      "display": "6.1 inches (828 x 1792 pixels)",
+      "processor": "Apple A12 Bionic(7 nm)",
+      "os": "iOS 12, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP",
+      "ram": "3 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Ion 2942 mAh"
+    },
+    "product_name": "iPhone XR",
+    "product_value": "iphone-xr"
+  },
+  {
+    "id": 53,
+    "name": "iPhone XS",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-XS.webp",
+    "thumb_img": "/img/products_thumbnails/iPhone-XS-265x265.webp",
+    "desc": {
+      "display": "5.8 inches (1125 x 2436 pixels)",
+      "processor": "Apple A12 Bionic(7 nm)",
+      "os": "iOS 12, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "64 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 2658 mAh"
+    },
+    "product_name": "iPhone XS",
+    "product_value": "iphone-xs"
+  },
+  {
+    "id": 54,
+    "name": "iPhone XS Max",
+    "category": [
+      "iphone",
+      "apple"
+    ],
+    "brand": "Apple",
+    "image": "/img/products_images/iPhone-XS-max.jpg",
+    "thumb_img": "/img/products_thumbnails/iPhone-XS-max-265x265.jpg",
+    "desc": {
+      "display": "6.5 inches (1242 x 2688 pixels)",
+      "processor": "Apple A12 Bionic(7 nm)",
+      "os": "iOS 12, upgradable to iOS 15.2",
+      "selfie_camera": "7 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB",
+      "storage": "64 GB / 256 GB / 512 GB",
+      "battery": "Li-Ion 3174 mAh"
+    },
+    "product_name": "iPhone XS Max",
+    "product_value": "iphone-xs-max"
+  },
+  {
+    "id": 55,
+    "name": "Samsung Galaxy A02s",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-A02s.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-A02s-265x265.jpg",
+    "desc": {
+      "display": "6.5 inches (720 x 1600 pixels)",
+      "processor": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.1",
+      "selfie_camera": "5 MP",
+      "main_camera": "13 MP + 2 MP + 2 MP",
+      "ram": "1 GB / 2 GB / 3 GB / 4 GB",
+      "storage": "16 GB / 32 GB / 64 GB",
+      "battery": "Li-Po 5000 mAh"
+    },
+    "product_name": "Samsung Galaxy A02s",
+    "product_value": "samsung-galaxy-a02s"
+  },
+  {
+    "id": 56,
+    "name": "Samsung Galaxy A12",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-A12.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-A12-265x265.jpg",
+    "desc": {
+      "display": "6.5 inches (720 x 1600 pixels)",
+      "processor": "Mediatek MT6765 Helio P35 (12nm)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.1",
+      "selfie_camera": "8 MP",
+      "main_camera": "48 MP + 5 MP + 2 MP + 2 MP",
+      "ram": "2 GB / 3 GB / 4 GB",
+      "storage": "32 GB / 64 GB / 128 GB",
+      "battery": "Li-Po 5000 mAh"
+    },
+    "product_name": "Samsung Galaxy A12",
+    "product_value": "samsung-galaxy-a12"
+  },
+  {
+    "id": 57,
+    "name": "Samsung Galaxy A22",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-A22.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-A22-265x265.jpg",
+    "desc": {
+      "display": "6.4 inches (720 x 1600 pixels)",
+      "processor": "Mediatek MT6769V/CU Helio G80 (12 nm)",
+      "os": "Android 11, One UI Core 3.1",
+      "selfie_camera": "13 MP",
+      "main_camera": "48 MP + 8 MP + 2 MP + 2 MP",
+      "ram": "4 GB / 6 GB",
+      "storage": "64 GB / 128 GB",
+      "battery": "Li-Po 5000 mAh"
+    },
+    "product_name": "Samsung Galaxy A22",
+    "product_value": "samsung-galaxy-a22"
+  },
+  {
+    "id": 58,
+    "name": "Samsung Galaxy A51",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-A51.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-A51-265x265.jpg",
+    "desc": {
+      "display": "6.5 inches (1080 x 2400 pixels)",
+      "processor": "Exynos 9611 (10nm)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.1",
+      "selfie_camera": "32 MP",
+      "main_camera": "48 MP + 12 MP + 5 MP + 5 MP",
+      "ram": "4 GB / 6 GB / 8 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Po 4000 mAh"
+    },
+    "product_name": "Samsung Galaxy A51",
+    "product_value": "samsung-galaxy-a51"
+  },
+  {
+    "id": 59,
+    "name": "Samsung Galaxy A7",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-A7.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-A7-265x265.jpg",
+    "desc": {
+      "display": "10.4 inches (1200 x 2000 pixels)",
+      "processor": "Qualcomm SM6115 Snapdragon 662 (11 nm)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.1",
+      "selfie_camera": "5 MP",
+      "main_camera": "8 MP",
+      "ram": "3 GB",
+      "storage": "32 GB / 64 GB",
+      "battery": "Li-Po 7040 mAh"
+    },
+    "product_name": "Samsung Galaxy A7",
+    "product_value": "samsung-galaxy-a7"
+  },
+  {
+    "id": 60,
+    "name": "Samsung Galaxy Note 10",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-Note-10.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-Note-10-265x265.jpg",
+    "desc": {
+      "display": "6.3 inches (1080 x 2280 pixels)",
+      "processor": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+      "os": "Android 9.0 (Pie), upgradable to Android 12, One UI 4",
+      "selfie_camera": "10 MP",
+      "main_camera": "12 MP + 12 MP + 16 MP",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "Li-Po 3500 mAh"
+    },
+    "product_name": "Samsung Galaxy Note 10",
+    "product_value": "samsung-galaxy-note-10"
+  },
+  {
+    "id": 61,
+    "name": "Samsung Galaxy Note 10 Plus",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-Note-10-Plus.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-Note-10-Plus-265x265.jpg",
+    "desc": {
+      "display": "6.8 inches (1440 x 3040 pixels)",
+      "processor": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+      "os": "Android 9.0 (Pie), upgradable to Android 12, One UI 4",
+      "selfie_camera": "10 MP",
+      "main_camera": "12 MP + 12 MP + 16 MP + 0.3 MP",
+      "ram": "12 GB",
+      "storage": "256 GB / 512 GB",
+      "battery": "Li-Po 4300 mAh"
+    },
+    "product_name": "Samsung Galaxy Note 10 Plus",
+    "product_value": "samsung-galaxy-note-10-plus"
+  },
+  {
+    "id": 62,
+    "name": "Samsung Galaxy Note 20",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-Note-20.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-Note-20-265x265.jpg",
+    "desc": {
+      "display": "6.7 inches (1080 x 2400 pixels)",
+      "processor": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.0",
+      "selfie_camera": "10 MP",
+      "main_camera": "12 MP + 64 MP + 12 MP",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "Li-Po 4300 mAh"
+    },
+    "product_name": "Samsung Galaxy Note 20",
+    "product_value": "samsung-galaxy-note-20"
+  },
+  {
+    "id": 63,
+    "name": "Samsung Galaxy Note 20 Ultra",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-Note-20-Ultra.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-Note-20-Ultra-265x265.jpg",
+    "desc": {
+      "display": "6.9 inches (1440 x 3088 pixels)",
+      "processor": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.0",
+      "selfie_camera": "10 MP",
+      "main_camera": "108 MP + 12 MP + 12 MP",
+      "ram": "8 GB / 12 GB",
+      "storage": "256 GB / 512 GB",
+      "battery": "Li-Po 4500 mAh"
+    },
+    "product_name": "Samsung Galaxy Note 20 Ultra",
+    "product_value": "samsung-galaxy-note-20-ultra"
+  },
+  {
+    "id": 64,
+    "name": "Samsung Galaxy Note 9",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-Note-9.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-Note-9-265x265.jpg",
+    "desc": {
+      "display": "6.4 inches (1440 x 2960 pixels)",
+      "processor": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+      "os": "Android 8.1 (Oreo), upgradable to Android 10, One UI 2.5",
+      "selfie_camera": "8 MP + 2 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "6 GB / 8 GB",
+      "storage": "128 GB / 512 GB",
+      "battery": "Li-Po 4000 mAh"
+    },
+    "product_name": "Samsung Galaxy Note 9",
+    "product_value": "samsung-galaxy-note-9"
+  },
+  {
+    "id": 65,
+    "name": "Samsung Galaxy S10",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S10-e.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S10-e-265x265.jpg",
+    "desc": {
+      "display": "6.1 inches (1440 x 3040 pixels)",
+      "processor": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+      "os": "Android 9.0 (Pie), upgradable to Android 11, One UI 3.0",
+      "selfie_camera": "10 MP",
+      "main_camera": "12 MP + 12 MP + 16 MP",
+      "ram": "6 GB / 8 GB",
+      "storage": "128 GB / 512 GB",
+      "battery": "Li-Po 3400 mAh"
+    },
+    "product_name": "Samsung Galaxy S10",
+    "product_value": "samsung-galaxy-s10"
+  },
+  {
+    "id": 66,
+    "name": "Samsung Galaxy S10 Plus",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S10-Plus.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S10-Plus-265x265.jpg",
+    "desc": {
+      "display": "6.1 inches (1440 x 3040 pixels)",
+      "processor": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+      "os": "Android 9.0 (Pie), upgradable to Android 11, One UI 3.0",
+      "selfie_camera": "10 MP",
+      "main_camera": "12 MP + 12 MP + 16 MP",
+      "ram": "6 GB / 8 GB",
+      "storage": "128 GB / 512 GB",
+      "battery": "Li-Po 3400 mAh"
+    },
+    "product_name": "Samsung Galaxy S10 Plus",
+    "product_value": "samsung-galaxy-s10-plus"
+  },
+  {
+    "id": 67,
+    "name": "Samsung Galaxy S20",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S20.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S20-265x265.jpg",
+    "desc": {
+      "display": "6.2 inches (1440 x 3200 pixels)",
+      "processor": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.0",
+      "selfie_camera": "10 MP",
+      "main_camera": "12 MP + 64 MP + 12 MP",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "Li-Po 4000 mAh"
+    },
+    "product_name": "Samsung Galaxy S20",
+    "product_value": "samsung-galaxy-s20"
+  },
+  {
+    "id": 68,
+    "name": "Samsung Galaxy S20 Plus",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S20-Plus.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S20-Plus-265x265.jpg",
+    "desc": {
+      "display": "6.7 inches (1440 x 3200 pixels)",
+      "processor": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.0",
+      "selfie_camera": "10 MP",
+      "main_camera": "12 MP + 64 MP + 12 MP + 0.3 MP",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "Li-Po 4500 mAh"
+    },
+    "product_name": "Samsung Galaxy S20 Plus",
+    "product_value": "samsung-galaxy-s20-plus"
+  },
+  {
+    "id": 69,
+    "name": "Samsung Galaxy S20 Ultra",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S20-Ultra.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S20-Ultra-265x265.jpg",
+    "desc": {
+      "display": "6.9 inches (1440 x 3200 pixels)",
+      "processor": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+      "os": "Android 10, upgradable to Android 11, One UI 3.0",
+      "selfie_camera": "40 MP",
+      "main_camera": "108 MP + 48 MP + 12 MP + 0.3 MP",
+      "ram": "12 GB / 16 GB",
+      "storage": "128 GB / 256 GB / 512 GB",
+      "battery": "Li-Po 5000 mAh"
+    },
+    "product_name": "Samsung Galaxy S20 Ultra",
+    "product_value": "samsung-galaxy-s20-ultra"
+  },
+  {
+    "id": 70,
+    "name": "Samsung Galaxy S21",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S21.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S21-265x265.jpg",
+    "desc": {
+      "display": "6.2 inches (1080 x 2400 pixels)",
+      "processor": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+      "os": "Android 11, One UI 3.1",
+      "selfie_camera": "10 MP",
+      "main_camera": "12 MP + 64 MP + 12 MP",
+      "ram": "8 GB",
+      "storage": "128 GB / 256 GB",
+      "battery": "Li-Po 4000 mAh"
+    },
+    "product_name": "Samsung Galaxy S21",
+    "product_value": "samsung-galaxy-s21"
+  },
+  {
+    "id": 71,
+    "name": "Samsung Galaxy S21 Plus",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S21-Plus.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S21-Plus-265x265.jpg",
+    "desc": {
+      "display": "6.7 inches (1080 x 2400 pixels)",
+      "processor": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+      "os": "Android 11, One UI 3.1",
+      "selfie_camera": "10 MP",
+      "main_camera": "12 MP + 64 MP + 12 MP",
+      "ram": "8 GB",
+      "storage": "128 GB / 256 GB",
+      "battery": "Li-Po 4800 mAh"
+    },
+    "product_name": "Samsung Galaxy S21 Plus",
+    "product_value": "samsung-galaxy-s21-plus"
+  },
+  {
+    "id": 72,
+    "name": "Samsung Galaxy S21 Ultra",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S21-Ultra.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S21-Ultra-265x265.jpg",
+    "desc": {
+      "display": "6.8 inches (1440 x 3200 pixels)",
+      "processor": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+      "os": "Android 11, One UI 3.1",
+      "selfie_camera": "40 MP",
+      "main_camera": "108 MP + 10 MP + 10 MP + 12 MP",
+      "ram": "12 GB / 16 GB",
+      "storage": "128 GB / 256 GB / 512 GB",
+      "battery": "Li-Po 5000 mAh"
+    },
+    "product_name": "Samsung Galaxy S21 Ultra",
+    "product_value": "samsung-galaxy-s21-ultra"
+  },
+  {
+    "id": 73,
+    "name": "Samsung Galaxy S9",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S9.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S9-265x265.jpg",
+    "desc": {
+      "display": "6.2 inches (1440 x 2960 pixels)",
+      "processor": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+      "os": "Android 8.0 (Oreo), upgradable to Android 10, One UI 2.5",
+      "selfie_camera": "8 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB / 6 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Po 3500 mAh"
+    },
+    "product_name": "Samsung Galaxy S9",
+    "product_value": "samsung-galaxy-s9"
+  },
+  {
+    "id": 74,
+    "name": "Samsung Galaxy S9 Plus",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-S9-Plus.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-S9-Plus-265x265.jpg",
+    "desc": {
+      "display": "6.2 inches (1440 x 2960 pixels)",
+      "processor": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+      "os": "Android 8.0 (Oreo), upgradable to Android 10, One UI 2.5",
+      "selfie_camera": "8 MP",
+      "main_camera": "12 MP + 12 MP",
+      "ram": "4 GB / 6 GB",
+      "storage": "64 GB / 128 GB / 256 GB",
+      "battery": "Li-Po 3500 mAh"
+    },
+    "product_name": "Samsung Galaxy S9 Plus",
+    "product_value": "samsung-galaxy-s9-plus"
+  },
+  {
+    "id": 75,
+    "name": "Samsung Galaxy Tab A",
+    "category": [
+      "samsung"
+    ],
+    "brand": "Samsung",
+    "image": "/img/products_images/Samsung-Galaxy-Tab-A.jpg",
+    "thumb_img": "/img/products_thumbnails/Samsung-Galaxy-Tab-A-265x265.jpg",
+    "desc": {
+      "display": "10.1 inches (1200 x 1920 pixels)",
+      "processor": "Exynos 7904 (14 nm)",
+      "os": "Android 9.0 (Pie), upgradable to Android 11, One UI 3.0",
+      "selfie_camera": "5 MP",
+      "main_camera": "8 MP",
+      "ram": "2 GB / 3 GB",
+      "storage": "16 GB / 32 GB / 128 GB",
+      "battery": "Li-Po 6150 mAh"
+    },
+    "product_name": "Samsung Galaxy Tab A",
+    "product_value": "samsung-galaxy-tab-a"
+  }
+]

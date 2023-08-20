@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg:#FFFFFF;
+  --bg-dark:#000000;
+  --border: #1C1B1B;
+  --text: #1C1B1B;
+  --text-subtle: #6b7280;
+}
+@font-face {
+  font-family: Matter;
+  src: url(../../public/fonts/MatterRegular.woff2) format("woff2");
+}
+@font-face {
+  font-family: MatterMedium;
+  src: url(../../public/fonts/MatterMedium.woff2) format("woff2");
+}
+@font-face {
+  font-family: MatterBold;
+  src: url(../../public/fonts/MatterBold.woff2) format("woff2");
+}
+*{
+  margin:0px;
+  padding:0px;
+}
+*::selection {
+  background-color: var(--bg-emphasis);
+  color: var(--text-emphasis);
+}
+body {
+  background-color: var(--bg);
+  box-sizing: border-box;
+  font-family:Matter,Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  color: var(--text);
+}
